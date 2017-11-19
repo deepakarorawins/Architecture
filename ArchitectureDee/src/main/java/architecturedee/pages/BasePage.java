@@ -1,4 +1,4 @@
-package architecturedee.Pages;
+package architecturedee.pages;
 
 public class BasePage {
 

@@ -1,4 +1,4 @@
-package architecturedee.Rough;
+package architecturedee.rough;
 
 public class Test {
 
