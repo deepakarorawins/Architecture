@@ -1,4 +1,4 @@
-package rough;
+package com.architecturedee.rough;
 
 public class Test {
 
